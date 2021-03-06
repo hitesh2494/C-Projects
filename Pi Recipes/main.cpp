@@ -57,7 +57,7 @@ void Chudnovsky();
  * @return an estimate of pi.
  */
 void Machin();
-
+/*
 int main()
 {
     cout << fixed << setprecision(16);
@@ -84,6 +84,7 @@ int main()
 
     return 0;
 }
+*/
 
 double factorial(int n)
 {
